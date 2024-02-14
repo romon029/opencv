@@ -1,4 +1,4 @@
-Building OpenCV from Source, using CMake and Command Line
+*Building OpenCV from Source, using CMake and Command Line
 =========================================================
 
 Requirements
